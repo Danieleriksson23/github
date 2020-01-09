@@ -7,7 +7,9 @@ namespace github
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("hjhjad")
-;        }
+            Console.WriteLine("hjhjad");
+            Console.ReadKey();
+
+        }
     }
 }
